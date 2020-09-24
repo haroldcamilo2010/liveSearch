@@ -8,5 +8,7 @@
 > 0.5%
 last 2 versions
 Firefox ESR
+ios_saf >= 10
+Safari >= 10 
 not dead
-not IE 9-11 # For IE 9-11 support, remove 'not'.
+IE 9-11 # For IE 9-11 support, remove 'not'.
